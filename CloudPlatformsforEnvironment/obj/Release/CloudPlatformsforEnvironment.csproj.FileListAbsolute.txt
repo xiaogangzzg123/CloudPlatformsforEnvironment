@@ -1,0 +1,245 @@
+d:\document\visual studio 2015\Projects\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\ApplicationInsights.config
+d:\document\visual studio 2015\Projects\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\csc.exe
+d:\document\visual studio 2015\Projects\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\document\visual studio 2015\Projects\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\document\visual studio 2015\Projects\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\document\visual studio 2015\Projects\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\document\visual studio 2015\Projects\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\document\visual studio 2015\Projects\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\document\visual studio 2015\Projects\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\System.Collections.Immutable.dll
+d:\document\visual studio 2015\Projects\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\System.Reflection.Metadata.dll
+d:\document\visual studio 2015\Projects\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\vbc.exe
+d:\document\visual studio 2015\Projects\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\VBCSCompiler.exe
+d:\document\visual studio 2015\Projects\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\VBCSCompiler.exe.config
+d:\document\visual studio 2015\Projects\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\CloudPlatformsforEnvironment.dll.config
+d:\document\visual studio 2015\Projects\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\CloudPlatformsforEnvironment.dll
+d:\document\visual studio 2015\Projects\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\CloudPlatformsforEnvironment.pdb
+d:\document\visual studio 2015\Projects\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.Agent.Intercept.dll
+d:\document\visual studio 2015\Projects\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.DependencyCollector.dll
+d:\document\visual studio 2015\Projects\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.PerfCounterCollector.dll
+d:\document\visual studio 2015\Projects\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.ServerTelemetryChannel.dll
+d:\document\visual studio 2015\Projects\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.Web.dll
+d:\document\visual studio 2015\Projects\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.WindowsServer.dll
+d:\document\visual studio 2015\Projects\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.ApplicationInsights.dll
+d:\document\visual studio 2015\Projects\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\document\visual studio 2015\Projects\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.DependencyCollector.xml
+d:\document\visual studio 2015\Projects\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.ServerTelemetryChannel.xml
+d:\document\visual studio 2015\Projects\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.Web.xml
+d:\document\visual studio 2015\Projects\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.WindowsServer.xml
+d:\document\visual studio 2015\Projects\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.ApplicationInsights.xml
+d:\document\visual studio 2015\Projects\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\document\visual studio 2015\Projects\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\obj\Release\CloudPlatformsforEnvironment.csprojResolveAssemblyReference.cache
+d:\document\visual studio 2015\Projects\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\obj\Release\CloudPlatformsforEnvironment.dll
+d:\document\visual studio 2015\Projects\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\obj\Release\CloudPlatformsforEnvironment.pdb
+D:\下载\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\ApplicationInsights.config
+D:\下载\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\csc.exe
+D:\下载\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\下载\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\下载\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\下载\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\下载\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\下载\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\下载\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\System.Collections.Immutable.dll
+D:\下载\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\System.Reflection.Metadata.dll
+D:\下载\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\vbc.exe
+D:\下载\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\VBCSCompiler.exe
+D:\下载\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\VBCSCompiler.exe.config
+D:\下载\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\CloudPlatformsforEnvironment.dll.config
+D:\下载\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\CloudPlatformsforEnvironment.dll
+D:\下载\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\CloudPlatformsforEnvironment.pdb
+D:\下载\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.Agent.Intercept.dll
+D:\下载\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.DependencyCollector.dll
+D:\下载\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\下载\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\下载\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.Web.dll
+D:\下载\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.WindowsServer.dll
+D:\下载\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.ApplicationInsights.dll
+D:\下载\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\下载\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.DependencyCollector.xml
+D:\下载\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\下载\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.Web.xml
+D:\下载\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.WindowsServer.xml
+D:\下载\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.ApplicationInsights.xml
+D:\下载\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\下载\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\obj\Release\CloudPlatformsforEnvironment.csprojResolveAssemblyReference.cache
+D:\下载\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\obj\Release\CloudPlatformsforEnvironment.dll
+D:\下载\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\obj\Release\CloudPlatformsforEnvironment.pdb
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\ApplicationInsights.config
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\csc.exe
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\System.Collections.Immutable.dll
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\System.Reflection.Metadata.dll
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\vbc.exe
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\VBCSCompiler.exe
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\VBCSCompiler.exe.config
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\CloudPlatformsforEnvironment.dll.config
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\CloudPlatformsforEnvironment.dll
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\CloudPlatformsforEnvironment.pdb
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.DependencyCollector.dll
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.Web.dll
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.WindowsServer.dll
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.ApplicationInsights.dll
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.DependencyCollector.xml
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.Web.xml
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.WindowsServer.xml
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.ApplicationInsights.xml
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\obj\Release\CloudPlatformsforEnvironment.dll
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\obj\Release\CloudPlatformsforEnvironment.pdb
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\obj\Release\CloudPlatformsforEnvironment.csprojResolveAssemblyReference.cache
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\ApplicationInsights.config
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\csc.exe
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\System.Collections.Immutable.dll
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\System.Reflection.Metadata.dll
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\vbc.exe
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\VBCSCompiler.exe
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\VBCSCompiler.exe.config
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\CloudPlatformsforEnvironment.dll.config
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\CloudPlatformsforEnvironment.dll
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\CloudPlatformsforEnvironment.pdb
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.DependencyCollector.dll
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.Web.dll
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.WindowsServer.dll
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.ApplicationInsights.dll
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.Logging.dll
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.Options.dll
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.Primitives.dll
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Remotion.Linq.dll
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\System.Collections.Immutable.dll
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\System.Interactive.Async.dll
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.DependencyCollector.xml
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.Web.xml
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.WindowsServer.xml
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.ApplicationInsights.xml
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.Logging.xml
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.Options.xml
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.Primitives.xml
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Remotion.Linq.xml
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\System.Interactive.Async.xml
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\obj\Release\Interop.COM_IDL_connectLib.dll
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\obj\Release\Interop.COM_IDL_connect_x86_64Lib.dll
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\obj\Release\CloudPlatformsforEnvironment.csproj.ResolveComReference.cache
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\obj\Release\CloudPlatformsforEnvironment.dll
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\obj\Release\CloudPlatformsforEnvironment.pdb
+D:\Document\GitHub\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\obj\Release\CloudPlatformsforEnvironment.csprojResolveAssemblyReference.cache
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\EntityFramework.dll
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\EntityFramework.SqlServer.dll
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.Logging.dll
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.Options.dll
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.Primitives.dll
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Remotion.Linq.dll
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\System.Collections.Immutable.dll
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\System.Interactive.Async.dll
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\EntityFramework.xml
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\EntityFramework.SqlServer.xml
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.Logging.xml
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.Options.xml
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.Primitives.xml
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Remotion.Linq.xml
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\System.Interactive.Async.xml
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\obj\Release\Interop.COM_IDL_connectLib.dll
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\obj\Release\Interop.COM_IDL_connect_x86_64Lib.dll
+D:\Download\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\obj\Release\CloudPlatformsforEnvironment.csproj.ResolveComReference.cache
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\ApplicationInsights.config
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\csc.exe
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\System.Collections.Immutable.dll
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\System.Reflection.Metadata.dll
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\vbc.exe
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\VBCSCompiler.exe
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\roslyn\VBCSCompiler.exe.config
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\CloudPlatformsforEnvironment.dll.config
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\CloudPlatformsforEnvironment.dll
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\CloudPlatformsforEnvironment.pdb
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.DependencyCollector.dll
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.Web.dll
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.WindowsServer.dll
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.ApplicationInsights.dll
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.Logging.dll
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.Options.dll
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.Primitives.dll
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Remotion.Linq.dll
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\System.Collections.Immutable.dll
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\System.Interactive.Async.dll
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.DependencyCollector.xml
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.Web.xml
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.AI.WindowsServer.xml
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.ApplicationInsights.xml
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.Logging.xml
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.Options.xml
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Microsoft.Extensions.Primitives.xml
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\Remotion.Linq.xml
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\bin\System.Interactive.Async.xml
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\obj\Release\CloudPlatformsforEnvironment.csprojResolveAssemblyReference.cache
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\obj\Release\CloudPlatformsforEnvironment.csproj.ResolveComReference.cache
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\obj\Release\CloudPlatformsforEnvironment.dll
+D:\Downloads\Documents\Competition\Code\CloudPlatformsforEnvironment\CloudPlatformsforEnvironment\obj\Release\CloudPlatformsforEnvironment.pdb

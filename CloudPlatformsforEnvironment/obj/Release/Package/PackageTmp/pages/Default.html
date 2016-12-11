@@ -1,0 +1,472 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>江苏省重点污染源企业监测平台</title>
+
+    <!--<link rel="stylesheet" href="https://js.arcgis.com/4.0/esri/css/main.css">-->
+    <link rel="stylesheet" href="http://localhost/arcgis_js_api/library/4.0/4.0/esri/css/main.css" />
+    <link rel="stylesheet" href="http://localhost/arcgis_js_api/library/4.0/4.0/dijit/themes/claro/claro.css" />
+
+    <link rel="stylesheet" href="../content/ionicons.css" />
+    <link rel="stylesheet" href="../content/typo.css" />
+    <link rel="stylesheet" href="../content/nice-select.css" />
+    <link rel="stylesheet" href="../content/loaders.min.css" />
+    <link rel="stylesheet" href="../content/stylesheet.css" />
+
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li>
+                    <a><span class="ion-social-buffer ionicons before"></span>江苏省 重点污染源企业 - 监测平台</a>
+                </li>
+                <li><a>图例<span class="ion-arrow-down-b ionicons after hover"></span></a></li>
+                <li><a>实时</a></li>
+                <li><a>关于</a></li>
+                <!--<li><a><span class="enfonts">intMinor</span><span class="ion-arrow-down-b ionicons after hover" /></a></li>-->
+            </ul>
+        </nav>
+
+        <!--<a>
+            <img src="..\image\avatar.svg" alt="avatar" />
+        </a>-->
+        <section id="assist"></section>
+    </header>
+
+    <input type='checkbox' id='sideToggle' />
+    <label for="sideToggle" class="ion-navicon-round ionicons"></label>
+
+
+    <aside>
+        <ul class="tabControl">
+            <li>
+                <a class="ion-erlenmeyer-flask ionicons"></a>
+            </li>
+            <li>
+                <a class="ion-paintbucket ionicons"></a>
+            </li>
+            <li>
+                <a class="ion-ios-color-filter ionicons"></a>
+            </li>
+            <li>
+                <a id="descartes" class="ion-podium ionicons"></a>
+            </li>
+        </ul>
+
+        <section class="group-container">
+            <div>
+                <input id="group-1" type="checkbox" checked="checked" />
+                <label for="group-1" class="ion-ios-arrow-right ionicons before">国控污染源企业管理</label>
+                <section>
+                    <div>
+                        <input id="group-1-1" type="checkbox" />
+                        <label for="group-1-1" class="ion-ios-arrow-right ionicons before"><span class="ion-eye ionicons"></span>实时排放量监测</label>
+                        <section class="asideArea">
+                            <div>
+                                <input name="" id="group-1-1-1" type="checkbox" />
+                                <label for="group-1-1-1" class="ion-ios-arrow-right ionicons before"><span class="ion-minus ionicons"></span>反距离加权模拟</label>
+                                <section class="asideArea"></section>
+                            </div>
+                            <div>
+                                <input id="group-1-1-2" type="checkbox" />
+                                <label for="group-1-1-2" class="ion-ios-arrow-right ionicons before"><span class="ion-minus ionicons"></span>点密度模拟</label>
+                                <section class="asideArea"></section>
+                            </div>
+                        </section>
+                    </div>
+                    <div>
+                        <input id="group-1-2" type="checkbox" />
+                        <label for="group-1-2" class="ion-ios-arrow-right ionicons before"><span class="ion-android-locate ionicons"></span>污染排放状态排查</label>
+                        <section class="asideArea"></section>
+                    </div>
+                    <div>
+                        <input id="group-1-3" type="checkbox" />
+                        <label for="group-1-3" class="ion-ios-arrow-right ionicons before"><span class="ion-android-calendar ionicons"></span>五日回溯监测</label>
+                        <section class="asideArea">
+                            <div>
+                                <input id="group-1-3-1" type="checkbox" />
+                                <label for="group-1-3-1" class="ion-ios-arrow-right ionicons before"><span class="ion-minus ionicons"></span>反距离加权模拟</label>
+                                <section class="asideArea"></section>
+                            </div>
+                            <div>
+                                <input id="group-1-3-2" type="checkbox" />
+                                <label for="group-1-3-2" class="ion-ios-arrow-right ionicons before"><span class="ion-minus ionicons"></span>点密度模拟</label>
+                                <section class="asideArea"></section>
+                            </div>
+                        </section>
+                    </div>
+                    <div>
+                        <input id="group-1-4" type="checkbox" />
+                        <label for="group-1-4" class="ion-ios-arrow-right ionicons before"><span class="ion-arrow-graph-down-right ionicons"></span>排放量变化监测</label>
+                        <section class="asideArea">
+                            <div>
+                                <input id="group-1-4-1" type="checkbox" />
+                                <label for="group-1-4-1" class="ion-ios-arrow-right ionicons before"><span class="ion-minus ionicons"></span>反距离加权模拟</label>
+                                <section class="asideArea"></section>
+                            </div>
+                            <div>
+                                <input id="group-1-4-2" type="checkbox" />
+                                <label for="group-1-4-2" class="ion-ios-arrow-right ionicons before"><span class="ion-minus ionicons"></span>点密度模拟</label>
+                                <section class="asideArea"></section>
+                            </div>
+                        </section>
+                    </div>
+                    <div>
+                        <input id="group-1-5" type="checkbox" />
+                        <label for="group-1-5" class="ion-ios-arrow-right ionicons before"><span class="ion-ios-infinite ionicons"></span>环保信用等级评估</label>
+                        <section class="asideArea"></section>
+                    </div>
+                </section>
+            </div>
+            <div>
+                <input id="group-2" type="checkbox" checked="checked" />
+                <label for="group-2" class="ion-ios-arrow-right ionicons before">环保执勤车辆调度</label>
+                <section>
+                    <div>
+                        <input id="group-2-1" type="checkbox" />
+                        <label for="group-2-1" class="ion-ios-arrow-right ionicons before"><span class="ion-android-pin ionicons"></span>车辆实时位置</label>
+                        <section class="asideArea"></section>
+                    </div>
+                    <div>
+                        <input id="group-2-2" type="checkbox" />
+                        <label for="group-2-2" class="ion-ios-arrow-right ionicons before"><span class="ion-grid ionicons"></span>调度综合安排</label>
+                        <section class="asideArea">
+                            <div>
+                                <input id="group-2-2-1" type="checkbox" />
+                                <label for="group-2-2-1" class="ion-ios-arrow-right ionicons before"><span class="ion-minus ionicons"></span>调度线路导航</label>
+                                <section class="asideArea"></section>
+                            </div>
+                        </section>
+                    </div>
+                    <div>
+                        <input id="group-2-3" type="checkbox" />
+                        <label for="group-2-3" class="ion-ios-arrow-right ionicons before"><span class="ion-clipboard ionicons"></span>每日执勤日志</label>
+                        <section class="asideArea"></section>
+                    </div>
+                </section>
+            </div>
+            <!--<div>
+                <input id="group-3" type="checkbox" />
+                <label for="group-3" class="ion-ios-arrow-right ionicons before">居民地饮用水质监管</label>
+                <section>
+                    <div>
+                        <input id="group-3-1" type="checkbox" />
+                        <label for="group-3-1" class="ion-ios-arrow-right ionicons before"><span class="ion-ios-barcode-outline ionicons"></span>今日水质详细</label>
+                        <section class="asideArea">
+                        </section>
+                    </div>
+                    <div>
+                        <input id="group-3-2" type="checkbox" />
+                        <label for="group-3-2" class="ion-ios-arrow-right ionicons before"><span class="ion-ios-bolt ionicons"></span>重点企业动态监管</label>
+                        <section class="asideArea">
+                        </section>
+                    </div>
+                    <div>
+                        <input id="group-3-3" type="checkbox" />
+                        <label for="group-3-3" class="ion-ios-arrow-right ionicons before"><span class="ion-ios-flower-outline ionicons"></span>污染事故决策支持</label>
+                        <section class="asideArea">
+                        </section>
+                    </div>
+                </section>
+            </div>
+            <div>
+                <input id="group-4" type="checkbox" />
+                <label for="group-4" class="ion-ios-arrow-right ionicons before">空气质量监管</label>
+                <section class="custom">
+                    <div>
+                        <input id="starPoint" type="text" />
+                        <a id="starPointDefine" class="ion-ios-more ionicons"></a>
+                        <input id="endPoint" type="text" />
+                        <a id="endPointDefine" class="ion-ios-more ionicons"></a>
+                        <a id="confirm">开始</a>
+                        <section></section>
+                    </div>
+                </section>
+            </div>-->
+        </section>
+
+        <div class="loader">
+            <div class="loader-inner ball-scale-multiple middle">
+            </div>
+        </div>
+
+    </aside>
+
+    <main>
+        <div id="baseMap"></div>
+        <!--<div id="eagleMap"><div id="extentDiv"></div></div>-->
+
+        <section id="popping-window">
+            <section>
+                <section class="descartesResult">
+                    <div class="descartes"></div>
+                </section>
+                <section>
+                    <div>
+                        <a class="current" name="工业废水"></a>
+                        <a name="化学需氧量"></a>
+                        <a name="六价铬"></a>
+                        <a name="固体废物"></a>
+                        <a name="碳氢化合物"></a>
+                        <a name="二氧化硫"></a>
+                        <a name="总颗粒物"></a>
+                        <a name="氮氧化物"></a>
+                    </div>
+                </section>
+
+                <div class="loader">
+                    <div class="loader-inner ball-scale-multiple middle">
+                    </div>
+                </div>
+                <p>工业废水</p>
+            </section>
+            <section>
+                <section class="descartesResult">
+                    <div class="descartes"></div>
+                </section>
+                <section>
+                    <div>
+                        <a class="current" name="南京市"></a>
+                        <a name="无锡市"></a>
+                        <a name="徐州市"></a>
+                        <a name="常州市"></a>
+                        <a name="苏州市"></a>
+                        <a name="南通市"></a>
+                        <a name="扬州市"></a>
+                        <a name="镇江市"></a>
+                    </div>
+                </section>
+
+                <div class="loader">
+                    <div class="loader-inner ball-scale-multiple middle">
+                    </div>
+                </div>
+                <p>南京市</p>controlDescartesCurrent
+            </section>
+            <article>
+                <p>近五日-各污染物排放量-热力图</p>
+            </article>
+            <div><a id="left" class="ion-arrow-left-b ionicons"></a></div>
+            <div><a id="right" class="ion-arrow-right-b ionicons"></a></div>
+        </section>
+
+        <section id="topbar-window">
+            <section class="descartesResult">
+                <div class="descartes"></div>
+            </section>
+
+            <div class="loader">
+                <div class="loader-inner ball-scale-multiple small">
+                </div>
+            </div>
+        </section>
+
+        <section id="legend-window">
+            <!--<section>
+                <table class="formTable">
+                    <tbody></tbody>
+                </table>
+            </section>-->
+            <article>
+                <p>插值模拟图例</p>
+            </article>
+            <!--<div><a id="left" class="ion-arrow-left-b ionicons"></a></div>
+            <div><a id="right" class="ion-arrow-right-b ionicons"></a></div>-->
+            <table class="formTable">
+                <tbody></tbody>
+            </table>
+        </section>
+
+        <section id="timeline-window">
+            <div>
+                <a></a><a></a><a></a><a></a><a></a>
+            </div>
+        </section>
+
+        <section id="timelineless-window">
+            <div>
+                <a></a><a></a><a></a><a></a>
+            </div>
+        </section>
+
+        <section id="searching-window">
+            <a><span class="ion-android-search ionicons"></span></a>
+
+            <section>
+                <section>
+
+                    <div>
+                        <a class="ion-android-add ionicons"></a>
+                        <a class="ion-android-remove ionicons"></a>
+                    </div>
+
+                    <!--<section>
+                        <div class="wrapper-dropdown select fields">
+                            <span class="ion-ios-arrow-down ionicons"></span>
+                            <a name="> ">大于</a>
+                            <ul class="dropdown"></ul>
+                        </div>
+                        <div class="wrapper-dropdown select">
+                            <a name="> ">大于</a>
+                            <ul class="dropdown"></ul>
+                            <span class="ion-ios-arrow-down ionicons"></span>
+                        </div>
+                        <input type="text" name="queryField" />
+                        <a class="and"></a>
+                    </section>-->
+
+                </section>
+
+                <section>
+                    <a>检  索</a>
+                    <a></a>
+                    <p></p>
+                    <ul id="enterpriseList">
+                        <li>Searching&hellip;</li>
+                    </ul>
+
+                    <!--<div class="loader">
+                        <div class="loader-inner ball-scale-multiple small">
+                        </div>
+                    </div>-->
+                </section>
+
+            </section>
+        </section>
+
+        <section id="select-window">
+            <a>执 行</a>
+            <section>
+                <div>
+                    <p>模拟范围: </p>
+                    <div class="wrapper-dropdown select">
+                        <span class="ion-ios-arrow-down ionicons"></span>
+                        <a name="">*</a>
+                        <ul class="dropdown">
+                            <li><a name="">*</a></li>
+                            <li><a name="">南京市</a></li>
+                            <li><a name="">无锡市</a></li>
+                            <li><a name="">徐州市</a></li>
+                            <li><a name="">常州市</a></li>
+                            <li><a name="">苏州市</a></li>
+                            <li><a name="">南通市</a></li>
+                            <li><a name="">连云港市</a></li>
+                            <li><a name="">淮安市</a></li>
+                            <li><a name="">盐城市</a></li>
+                            <li><a name="">扬州市</a></li>
+                            <li><a name="">镇江市</a></li>
+                            <li><a name="">泰州市</a></li>
+                            <li><a name="">宿迁市</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div>
+                    <div><a name="CreditRank" class="current"></a><P>环保信用等级</P></div>
+                    <div><a name="SDI"></a><P>均值排放量</P></div>
+                    <div><a name="Polluted_01"></a><P>工业废水</P></div>
+                    <div><a name="Polluted_04"></a><P>化学需氧量</P></div>
+                    <div><a name="Polluted_08"></a><P>六价铬</P></div>
+                    <div><a name="Polluted_11"></a><P>碳氢化合物</P></div>
+                    <div><a name="Polluted_14"></a><P> 二氧化硫</P></div>
+                    <div><a name="Polluted_16"></a><P>总颗粒物</P></div>
+                    <div><a name="Polluted_21"></a><P>氮氧化物</P></div>
+                </div>
+            </section>
+
+            <div class="loader">
+                <div class="loader-inner ball-scale-multiple small">
+                </div>
+            </div>
+
+        </section>
+    </main>
+
+
+    <div class="loader">
+        <div class="loader-inner ball-scale-multiple large">
+        </div>
+    </div>
+
+    <script type="text/javascript" src="..\script\jquery-2.2.3.min.js"></script>
+
+    <script type="text/javascript" src="../script/draggabilly.pkgd.js"></script>
+    <script type="text/javascript" src="../script/jquery.nice-select.js"></script>
+    <script type="text/javascript" src="../script/loaders.css.js"></script>
+
+    <script src="../script/ECharts/echarts.js"></script>
+    <script src="../script/ECharts/macarons.js"></script>
+    <script src="../script/ECharts/roma.js"></script>
+    <script src="../script/ECharts/intMinor.js"></script>
+
+    <!--<script src="https://js.arcgis.com/4.0/"></script>-->
+    <script type="text/javascript" src="http://localhost/arcgis_js_api/library/4.0/4.0/init.js"></script>
+
+    <script charset="gb2312" type="text/javascript" src="../script/script.js"></script>
+    <script charset="gb2312" type="text/javascript" src="../script/mapRequire.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $('.loader-inner').loaders();
+
+            $("body > .loader").css('display', 'block');
+
+            //$("#topbar-window > .loader").css('display', 'block');
+
+            //$.sleep(2, function () {
+            //    $("body > .loader").css('display', 'none');
+            //});
+
+            $('header li:nth-of-type(1) ~ li a').click(controlTopbarCurrent);
+
+            $('header li:nth-of-type(2) a').click(controlLegend);
+
+            $('header li:nth-of-type(3) a').click(controlTopbar);
+
+            $('#sideToggle').click(controlSideToggle);
+
+            $('ul.tabControl li a').click(controlTabCurrent);
+
+            //$('#timeline-window div a').click(controlTimelineCurrent);
+
+            //$('ul.tabControl li:nth-of-type(4) a').click(controlPopping);
+            $('ul.tabControl li a').click(controlPopping);
+
+            $('#searching-window > a').click(controlSearching);
+
+            $("#searching-window > section section div:first-child a").click(controlSearchingPlus);
+
+            $("#select-window > section > div:nth-of-type(1) ~ div > div a").click(controlGpFieldCurrent);
+
+            $("#popping-window > div a").click(controlPoppingContent);
+
+            $("#popping-window > section section:nth-of-type(2) a").click(controlDescartesCurrent);
+
+            $("#popping-window > section section:nth-of-type(2) a").mouseover(controlDescartesFieldCurrent);
+
+            //$('#group-1-3-1').click(contrlTimeline);
+
+            //$('#group-1-3-2').click(contrlTimeline);
+
+            //$('#searching-window > section > section:last-child > ul li').click(controlSearchingUl);
+
+            //$('#searching-window > section > section:last-child > a:nth-of-type(1)').click(startSearching);
+
+            //$(document).click($.sleep(0.2, function () {
+            //    $('.wrapper-dropdown').removeClass('active');
+            //}));
+
+            //$(document).click(function () {
+            //    $('.wrapper-dropdown').removeClass('active');
+            //});
+
+            $(intSearching());
+        });
+    </script>
+
+</body>
+
+</html>

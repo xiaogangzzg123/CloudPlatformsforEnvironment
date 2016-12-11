@@ -1,0 +1,197 @@
+/*   搜索窗口-------------*/
+
+#searching-window {
+    /*display: none;*/
+    position: fixed;
+    z-index: 113;
+    top: 60px;
+    right: 0;
+    height: auto;
+    width: 360px;
+    background: rgba(245, 245, 245, 0.8);
+    /*border: 1px solid whitesmoke;*/
+    /*box-shadow: 2px 2px 10px #999;*/
+    box-shadow: 0 4px 16px -4px #999;
+    overflow: hidden;
+    transition: height 0.3s ease;
+}
+
+#searching-window > a {
+    position: absolute;
+    color: #56AE8B;
+    left: 94%;
+}
+
+#searching-window p {
+    margin: 0.4em 0;
+    font-family: Fzqkbys;
+    font-size: 1.2em;
+    color: #999;
+    text-align: center;
+}
+
+#searching-window section#searchResult {
+    background-color: rgba(245, 245, 245, 0.1);
+    border-top: 1px solid #85C79C;
+    max-height: 480px;
+    height: 0;
+    width: 100%;
+    margin: 0 auto;
+    overflow: auto;
+    transition: all 0.3s ease;
+}
+
+#searching-window section#searchResult ul li {
+    padding: 0.5em;
+    border-bottom: 1px dotted #666;
+    color: #999;
+    font-family: PingFang SC;
+    font-size: 1em;
+    transition: 0.3s ease-in-out;
+    background-color: transparent;
+}
+
+#searching-window section#searchResult ul li:hover {
+    color: whitesmoke;
+    background: #85C79C;
+}
+
+#searching-window section#searchResult ul li:focus {
+    color: whitesmoke;
+    background: #85C79C;
+    outline: 1px solid #85C79C;
+}
+
+#searching-window section:first-child {
+    width: 100%;
+    height: auto;
+    background-color: rgba(109, 203, 148, 0.1);
+    margin: 0 0 0 auto;
+}
+
+#searching-window label {
+    color: #999;
+    font-family: PingFang SC;
+    font-size: 0.9em;
+    width: 32%;
+    display: table-cell;
+}
+
+#searching-window input[type=text] {
+    height: 32px;
+    width: 328px;
+    padding-left: 0.5em;
+    box-shadow: none;
+    border: none;
+    /*border-bottom: 2px solid #85C79C;*/
+    background-color: rgba(133, 199, 156, 0.1);
+    /*background-color: whitesmoke;*/
+    color: #999;
+    font-family: PingFang SC;
+    font-size: 1em;
+    transition: 0.2s ease;
+    float: left;
+}
+
+#searching-window input[type=text] ~ div {
+    height: 32px;
+    width: 32px;
+    line-height: 32px;
+    overflow: hidden;
+    text-align: center;
+    vertical-align: middle;
+    float: left;
+    background-color: rgba(133, 199, 156, 0.8);
+    transition: 0.2s ease;
+}
+
+#searching-window input[type=text] ~ div a {
+    font-size: 1.2em;
+    color: rgba(245, 245, 245, 0.6);
+    transition: 0.2s ease;
+}
+
+#searching-window input[type=text] ~ div a:hover {
+    color: rgba(245, 245, 245, 0.8);
+}
+
+#searching-window input[type=text] ~ div:hover {
+    /*color: rgba(109,203,148,1);*/
+    background-color: rgba(133, 199, 156, 0.5);
+}
+
+#searching-window input[type=text]:hover {
+    /*outline: 1px solid #85C79C;*/
+    background-color: rgba(109, 203, 148, 0.1);
+}
+
+#searching-window input[type=text]:focus {
+    outline: 1px solid whitesmoke;
+    background-color: whitesmoke;
+}
+
+#searching-window > section:first-child:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+
+section#searchPrompt {
+    position: fixed;
+    z-index: 114;
+    top: 60px;
+    right: 32px;
+    width: 0;
+    height: 0;
+    background: rgba(245, 245, 245, 1);
+    /*border: 1px solid rgba(245, 245, 245, 1);
+        border-top: none;*/
+    /*box-shadow: 1px 1px 6px #999;*/
+    box-shadow: 0 4px 16px -4px #999;
+    overflow: hidden;
+    transition: height 0.3s ease;
+    transition: width 0.2s ease;
+}
+
+section#searchPrompt div {
+    height: 32px;
+    width: 30%;
+    float: left;
+    margin: 6px;
+    /*background-color: lightblue;*/
+}
+
+section#searchPrompt > a {
+    position: absolute;
+    color: whitesmoke;
+    left: 92%;
+    width: 18px;
+    height: 18px;
+    line-height: 18px;
+    overflow: hidden;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 12px;
+    background-color: rgba(133, 199, 156, 0.6);
+}
+
+section#searchPrompt > a:nth-of-type(1) {
+    bottom: 32%;
+}
+
+section#searchPrompt > a:nth-of-type(2) {
+    bottom: 24%;
+}
+
+section#searchPrompt > a:nth-of-type(3) {
+    bottom: 3%;
+}
+
+section#searchPrompt > a:hover {
+    background-color: rgba(133, 199, 156, 0.8);
+}
+
+
+/*--------------------------*/
