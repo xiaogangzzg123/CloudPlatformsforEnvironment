@@ -36,7 +36,7 @@
 ![image](https://github.com/intMinor/CloudPlatformsforEnvironment/blob/master/Screenshots/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE%20(31).png)
 ![image](https://github.com/intMinor/CloudPlatformsforEnvironment/blob/master/Screenshots/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE%20(32).png)
 ![image](https://github.com/intMinor/CloudPlatformsforEnvironment/blob/master/Screenshots/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE%20(33).png)
-![image](https://github.com/intMinor/CloudPlatformsforEnvironment/blob/master/Screenshots/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE%20(34.png)
+![image](https://github.com/intMinor/CloudPlatformsforEnvironment/blob/master/Screenshots/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE%20(34).png)
 ![image](https://github.com/intMinor/CloudPlatformsforEnvironment/blob/master/Screenshots/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE%20(35).png)
 ![image](https://github.com/intMinor/CloudPlatformsforEnvironment/blob/master/Screenshots/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE%20(36).png)
 ![image](https://github.com/intMinor/CloudPlatformsforEnvironment/blob/master/Screenshots/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE%20(37).png)
